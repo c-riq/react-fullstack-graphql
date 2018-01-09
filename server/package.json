@@ -1,0 +1,14 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "start": "NODE_ENV=dev node src/index.js",
+    "playground": "graphcool playground"
+  },
+  "dependencies": {
+    "graphcool-binding": "1.3.3",
+    "graphql-yoga": "1.1.5"
+  },
+  "devDependencies": {
+    "graphcool": "1.4.0"
+  }
+}
